@@ -3,5 +3,8 @@ include
 lib
 
 pyvenv.cfg
+.python-version
+pip-selfcheck.json
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
