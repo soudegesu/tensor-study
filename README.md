@@ -15,8 +15,8 @@ pyenv activate anaconda3-4.1.1/envs/tensor-study
 
 * install tensorflow
 ```
-pip3 install --upgrade pip
-pip3 install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl
+pip install --upgrade pip
+pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl
 ```
 
 * execute jupyter notebook
