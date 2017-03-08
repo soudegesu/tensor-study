@@ -6,5 +6,7 @@ pyvenv.cfg
 .python-version
 pip-selfcheck.json
 
+.ipynb_checkpoints
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
