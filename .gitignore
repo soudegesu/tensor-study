@@ -8,5 +8,8 @@ pip-selfcheck.json
 
 .ipynb_checkpoints
 
+# tutorial data
+data/mnist
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
