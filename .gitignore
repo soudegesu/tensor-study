@@ -15,7 +15,6 @@ text8.zip
 vocab_1000.tsv
 
 # tensorboard data
-events.out.*
-
+*events.out.*
 # PyInstaller
 #  Usually these files are written by a python script from a template
